@@ -1,3 +1,4 @@
+[![Build Status](https://xom-evolve.visualstudio.com/Bib%20Gourmand/_apis/build/status/phonpaseuth.pipelines-java?branchName=master)](https://xom-evolve.visualstudio.com/Bib%20Gourmand/_build/latest?definitionId=124&branchName=master)
 
 # Contributing
 
